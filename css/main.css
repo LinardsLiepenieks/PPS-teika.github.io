@@ -1,0 +1,25 @@
+* {
+    border: 1px solid red;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.grid {
+    width: 100%;
+    margin: 0 auto;
+}
+.col-10{
+    width: 10%;
+}
+.col-50{
+    width: 50%;
+}
+.col-90{
+    width: 90%;
+}
+.pogas {
+    height: 50px;
+}
